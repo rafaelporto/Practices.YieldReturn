@@ -4,7 +4,9 @@
   </a>
 </p>
 
-> <p>Este projeto é o resultado da prática do código apresentado no vídeo da EximiaCo sobre Yield return. Seu objetivo é demonstrar o funcionamento do _yield return_, o quão poderoso é e o porquê ele funciona dessa forma.</p>
+> <p>Este projeto é o resultado da prática do código apresentado no vídeo da EximiaCo sobre Yield return. Seu objetivo é demonstrar o funcionamento do "yield return", o quão poderoso é e o porquê ele funciona dessa forma.</p>
+## Video de referência: Como funciona o "yield return", do C#, "por baixo do capô"?
+> Este vídeo foi apresentado pelo Elemar Jr no canal da EximiaCo no YouTube:
 [![Como funciona o "yield return", do C#, "por baixo do capô"?](http://img.youtube.com/vi/TbvD3BwC01U/0.jpg)](https://www.youtube.com/watch?v=TbvD3BwC01U)
 ## Usage
 
